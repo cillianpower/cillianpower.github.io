@@ -1,1 +1,2 @@
-# cillianpower.github.io
+# Cillian Power
+I am an amateur programmer
